@@ -1,0 +1,91 @@
+{
+  "assets": {
+    "affirmation-full": {
+      "bytes": 6590667,
+      "sha256": "53cb357e5d49007ee3f51125d6874868eed3f415caacf0925a05331c36ae0d3a",
+      "source": "https://github.com/ocfproject-org/open-consciousness-functions-audio/releases/download/smart-play-unlisted-options-20261125/affirmation-full.flac"
+    },
+    "affirmation-reminder": {
+      "bytes": 1221201,
+      "sha256": "70198ce538924dd1f26609fbe222ae25691fd3d7ea0be75e500dc615a0118368",
+      "source": "https://github.com/ocfproject-org/open-consciousness-functions-audio/releases/download/smart-play-unlisted-options-20261125/affirmation-reminder.flac"
+    },
+    "energy-ball-reminder": {
+      "bytes": 1600534,
+      "sha256": "968f2686cd383c80a46030c6b748c851610087aa74437086bde0443ed58f1e7c",
+      "source": "https://github.com/ocfproject-org/open-consciousness-functions-audio/releases/download/smart-play-unlisted-options-20261125/energy-ball-reminder.flac"
+    },
+    "original-OCF-BOD-006": {
+      "bytes": 75407037,
+      "sha256": "ea64d145bf51650d125c64a9f4dedb1c32faaf9832e4d2e79f42fd2851eef508",
+      "source": "https://github.com/ocfproject-org/open-consciousness-functions-audio/releases/download/audio-0.3.0/OCF-BOD-006---Heart-Flow---en-US---Mike---Original-Voice---v0.3.0-1d9c23867efc.flac"
+    },
+    "original-OCF-COG-004": {
+      "bytes": 78462366,
+      "sha256": "b0c9c1fdfb68d8ecc97927d3cd8171e52cdc7eae9c58de914ca3b9ea0cffa969",
+      "source": "https://github.com/ocfproject-org/open-consciousness-functions-audio/releases/download/audio-0.3.0/OCF-COG-004---Imprint---en-US---Mike---Original-Voice---v0.3.0-44b6d6b21fd9.flac"
+    },
+    "original-OCF-COG-007": {
+      "bytes": 80676431,
+      "sha256": "daa2f44f1654a433281f4acc45542466d6e869149970a533ba5369b77a8b983c",
+      "source": "https://github.com/ocfproject-org/open-consciousness-functions-audio/releases/download/audio-0.3.0/OCF-COG-007---Think-Fast---en-US---Mike---Original-Voice---v0.3.0-d860ad3d4c7c.flac"
+    },
+    "original-OCF-EXP-002": {
+      "bytes": 100759919,
+      "sha256": "24164b4dac5d0bedf66ebe0ee817df20079ab799a24d669bac64caa0b3554979",
+      "source": "https://github.com/ocfproject-org/open-consciousness-functions-audio/releases/download/audio-0.3.0/OCF-EXP-002---Insulate---en-US---Mike---Original-Voice---v0.3.0-ba8bc952d577.flac"
+    },
+    "original-OCF-EXP-006": {
+      "bytes": 84724229,
+      "sha256": "78f10ab9eec2c5797103f64216ff7e5db7f6f07b9bb33aa93e396f38c6e1ff11",
+      "source": "https://github.com/ocfproject-org/open-consciousness-functions-audio/releases/download/audio-0.3.0/OCF-EXP-006---Intuition---en-US---Mike---Original-Voice---v0.3.0-bb4722d96823.flac"
+    },
+    "original-OCF-FND-005": {
+      "bytes": 76321439,
+      "sha256": "f4f53b94cb70b9c5c3f3bf3cc3d1d15527ab2982cad093a3becf3e4983f9d891",
+      "source": "https://github.com/ocfproject-org/open-consciousness-functions-audio/releases/download/audio-0.3.0/OCF-FND-005---Reset---en-US---Mike---Original-Voice---v0.3.0-74a72c4f0667.flac"
+    },
+    "original-OCF-PRF-005": {
+      "bytes": 82640853,
+      "sha256": "6f3af141bba80a2b65557f695b43356b2e4940ea2fe9fc5c3e551b1195ad5486",
+      "source": "https://github.com/ocfproject-org/open-consciousness-functions-audio/releases/download/audio-0.3.0/OCF-PRF-005---Make-Your-Day---en-US---Mike---Original-Voice---v0.3.0-1dd351e509b3.flac"
+    },
+    "original-OCF-SEN-002": {
+      "bytes": 83743139,
+      "sha256": "58b37cba84616bb821107dcdf3249518d404b094116c1f216ed41c6043c03149",
+      "source": "https://github.com/ocfproject-org/open-consciousness-functions-audio/releases/download/audio-0.3.0/OCF-SEN-002---Seeing---en-US---Mike---Original-Voice---v0.3.0-6d034f912985.flac"
+    },
+    "original-OCF-SEN-005": {
+      "bytes": 87050615,
+      "sha256": "2c486f7534e0e7478ada507eca611ee7d9b5bb194c94566455227a7e43b56737",
+      "source": "https://github.com/ocfproject-org/open-consciousness-functions-audio/releases/download/audio-0.3.0/OCF-SEN-005---Touch---en-US---Mike---Original-Voice---v0.3.0-7beb4345fe3d.flac"
+    },
+    "preparation-reminder": {
+      "bytes": 1010664,
+      "sha256": "b9aa5e1fb8aa8671a7cb512859b1e5a071fd27ea7823e5d294c78fcc5466a16d",
+      "source": "https://github.com/ocfproject-org/open-consciousness-functions-audio/releases/download/smart-play-unlisted-options-20261125/preparation-reminder.flac"
+    },
+    "relaxation-short": {
+      "bytes": 1280825,
+      "sha256": "7302afe6ece9908c18eda629e42a428227ef6fe8537f38529b9d3394579609c9",
+      "source": "https://github.com/ocfproject-org/open-consciousness-functions-audio/releases/download/smart-play-unlisted-options-20261125/relaxation-short.flac"
+    },
+    "resonant-tuning-full": {
+      "bytes": 3608055,
+      "sha256": "08b11b19343951f977809935b70540b68777af41eef6982dd250da311e7c1ac4",
+      "source": "https://github.com/ocfproject-org/open-consciousness-functions-audio/releases/download/smart-play-unlisted-options-20261125/resonant-tuning-full.flac"
+    },
+    "resonant-tuning-reminder": {
+      "bytes": 5365982,
+      "sha256": "8911c081552055681d2307b263945741c1d9389a8acfab61259a65a2f07a152c",
+      "source": "https://github.com/ocfproject-org/open-consciousness-functions-audio/releases/download/smart-play-unlisted-input-20261125/shared-reminder.flac"
+    },
+    "return-short": {
+      "bytes": 3820510,
+      "sha256": "a860bf550e607e2dc015c5ad618efd3086f8ffb09194a5484afe6abcb3df22c4",
+      "source": "https://github.com/ocfproject-org/open-consciousness-functions-audio/releases/download/smart-play-unlisted-options-20261125/return-short.flac"
+    }
+  },
+  "route": "v0.3.0",
+  "schema": 1
+}
